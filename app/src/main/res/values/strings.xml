@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="welcome">Welcome to Story App!</string>
+    <string name="email_hint">Input Your Email</string>
+    <string name="password_hint">Input Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="tv_signUp">Don\'t have an account?</string>
+    <string name="sign_up_underlined"><u>Sign Up</u></string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="story">Story</string>
+    <string name="description">Description</string>
+    <string name="selamat_datang_di_story_app">Selamat Datang di Story App!</string>
+    <string name="ekspresikan_hari_hari_mu">Ekspresikan hari-hari mu.</string>
+    <string name="sign_in_with_your_account">Sign in with your account</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="new_description">Description</string>
+    <string name="send">Send</string>
+    <string name="logout">Logout</string>
+    <string name="let_s">Let\'s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Coba lagi</string>
+</resources>
