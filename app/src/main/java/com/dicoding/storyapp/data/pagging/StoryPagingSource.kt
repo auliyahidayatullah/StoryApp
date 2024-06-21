@@ -10,10 +10,6 @@ class StoryPagingSource(private val apiService: ApiService) : PagingSource<Int, 
 
     companion object {
         const val INITIAL_PAGE_INDEX = 1
-
-        fun snapshot(items: List<ListStoryItem>): PagingData<ListStoryItem> {
-            return PagingData.from(items)
-        }
     }
 
     override fun getRefreshKey(state: PagingState<Int, ListStoryItem>): Int? {
